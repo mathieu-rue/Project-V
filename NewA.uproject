@@ -26,6 +26,10 @@
 		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
+		},
+		{
+			"Name": "LevelStreamingPersistence",
+			"Enabled": true
 		}
 	]
 }
